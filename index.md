@@ -1,37 +1,277 @@
-# Welcome to Jurassic World
+<img src="https://img00.deviantart.net/943f/i/2018/233/a/f/jurassic_world_logo__merchandise_version_redux__by_thecreeper24-dcktjvz.png" alt="Trulli" width="800" height="400">
 
-You can use the [editor on GitHub](https://github.com/50082049/Jurassic-World-Evolution/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Where it all began
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Jurassic Park
+John Hammond is the owner of Jurassic Park, a theme park located on Isla Nublar. When an incident with a velociraptor results in the death of an employee, Hammond (Richard Attenborough) brings in three specialists to sign off on the park to calm investors. The specialists, paleontologist Alan Grant (Sam Neill), paleobotanist Ellie Sattler (Laura Dern), and chaos theorist Ian Malcolm (Jeff Goldblum) are surprised to see the island park's main attraction are living, breathing dinosaurs, created with a mixture of fossilized DNA and genetic cross-breeding/cloning. When lead programmer Dennis Nedry (Wayne Knight) shuts down the park's power to sneak out with samples of the dinosaur embryos to sell to a corporate rival, the dinosaurs break free, and the survivors are forced to find a way to turn the power back on and make it out alive. The film also stars Bob Peck, Martin Ferrero, BD Wong, Ariana Richards, Joseph Mazzello, and Samuel L. Jackson.
 
-### Markdown
+Jurassic Park is regarded as a landmark in the use of computer-generated imagery and received positive reviews from critics, who praised the effects, though reactions to other elements of the picture, such as character development, were mixed. During its release, the film grossed more than $914 million worldwide, becoming the most successful film released up to that time (surpassing E.T. the Extra-Terrestrial and surpassed 4 years later by Titanic), and it is currently the 17th highest grossing feature film (taking inflation into account, it is the 20th-highest-grossing film in North America). It is the most financially successful film for NBCUniversal and Steven Spielberg.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jurassic Park had two re-releases: The first on September 23, 2011, in the United Kingdom and the second in which it was converted into 3D on April 5, 2013, for its 20th Anniversary, which resulted in the film passing the $1 billion mark at the worldwide box office.
 
-```markdown
-Syntax highlighted code block
+## Jurassic Park Lost World
+Before The Lost World was published, a film adaptation was already in pre-production, with its release occurring in May 1997. The film was a commercial success, breaking many box-office records when released. The film had mixed reviews, similar to its predecessor in terms of characterization. Much like the first film, The Lost World made a number of changes to the plot and characters from the book, replacing the corporate rivals with an internal power struggle and changing the roles or characterizations of several protagonists.
 
-# Header 1
-## Header 2
-### Header 3
+When a vacationing family stumbles upon the dinosaurs of Isla Sorna, a secondary island where the animals were bred en masse and allowed to grow before being transported to the park, Ian Malcolm (Jeff Goldblum) is called in by John Hammond (Richard Attenborough) to lead a team to document the island to turn it into a preserve, where the animals can roam free without interference from the outside world. Malcolm agrees to go when he discovers his girlfriend, paleontologist Sarah Harding (Julianne Moore) is already on the island, while at the same time Hammond's nephew, Peter Ludlow (Arliss Howard), has taken over his uncle's company and leads a team of hunters to capture the creatures and bring them back to a theme park in San Diego. The two groups clash and are ultimately forced to work together to evade the predatory creatures and survive the second island. The film also stars Pete Postlethwaite, Richard Schiff, Vince Vaughn, Vanessa Lee Chester, Peter Stormare, and a young Camilla Belle.
 
-- Bulleted
-- List
+## Jurassic Park 3
+had been interested in directing the sequel to Jurassic Park and approached his friend Steven Spielberg about the project. While Spielberg wanted to direct the first sequel, he agreed that if there was ever a third film, Johnston could direct.[21] Spielberg, nevertheless, stayed involved in this film by becoming its executive producer. Production began on August 30, 2000,[22] with filming in California, and the Hawaiian islands of Kauai, Oahu, and Molokai.[23] It is the first Jurassic Park film not to be based on a novel. The film was a financial success but received mixed reviews from critics.[24]
 
-1. Numbered
-2. List
+When their son goes missing while parasailing at Isla Sorna, the Kirbys (William H. Macy and Téa Leoni) hire Alan Grant (Sam Neill) under false pretenses to help them navigate the island. Believing it to be nothing more than sight-seeing, and that he will act as a dinosaur guide from the safety of their plane, he is startled to find them landing on the ground, where they are stalked by a Spinosaurus (superior to the Tyrannosaurus in size), which destroys their plane. As they search for the Kirbys' son, the situation grows dire as Velociraptors hunt their group and they must find a way off the island. The film also stars Alessandro Nivola, Michael Jeter, Trevor Morgan, Mark Harelik, and Laura Dern.
 
-**Bold** and _Italic_ and `Code` text
+## Jurassic World
+Steven Spielberg devised a story idea for a fourth film in 2001, during production of Jurassic Park III.[25] In 2002, William Monahan was hired to write the script,[26] with the film's release scheduled for 2005.[27] Monahan finished the first draft of the script in 2003,[28] with the film's plot revolving around dinosaurs escaping to the mainland.[29][30][31] Sam Neill and Richard Attenborough were set to reprise their characters,[31][32] while Keira Knightley was in talks for two separate roles.[33] In 2004, John Sayles wrote two drafts of the script.[34][35] Sayles' first draft involved a team of Deinonychus being trained for use in rescue missions.[36][37][38] His second draft involved genetically modified dinosaur-human mercenaries.[39][40] Both drafts were scrapped. In 2006, a new script was being worked on.[41][42][43] Laura Dern was contacted to reprise her role, with the film expected for release in 2008.[44][45] The film was further delayed by the 2007–08 Writers Guild of America strike.[46] Mark Protosevich wrote two film treatments in 2011, which were rejected.[47] Rise of the Planet of the Apes screenwriters Rick Jaffa and Amanda Silver were hired in 2012 to write an early draft of the script.[48] In 2013, Colin Trevorrow was announced as a director and co-writer,[49][50] with the film scheduled for release on June 12, 2015.[51] The film was shot in 3D, and received generally positive reviews.[52]
 
-[Link](url) and ![Image](src)
-```
+The film features a new park, Jurassic World, built on the remains of the original park on Isla Nublar.[53] The film sees the park run by Simon Masrani (Irrfan Khan) and Masrani Corp, and features the return of Dr. Henry Wu (BD Wong) from the first film.[54] Chris Pratt, Bryce Dallas Howard, and Jake Johnson star, while Vincent D'Onofrio portrayed the main antagonist, Vic Hoskins. The cast also includes Lauren Lapkus,[55] Ty Simpkins, Nick Robinson, Omar Sy, and Judy Greer. The primary dinosaur antagonist is Indominus rex, a genetically-modified hybrid of Tyrannosaurus rex and several other species, including Velociraptor, cuttlefish, tree frog, and pit viper
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Jurassic Wolrd Fallen Kingdom
+A sequel to Jurassic World was released on June 22, 2018.[58][59] The film was directed by J. A. Bayona and written by Trevorrow and Connolly,[59][60] with Trevorrow and Spielberg as executive producers.[59] The film stars Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith, Daniella Pineda, James Cromwell, Toby Jones, Ted Levine, BD Wong, Isabella Sermon, and Geraldine Chaplin, with Jeff Goldblum reprising his role as Dr. Ian Malcolm.[61]
 
-### Jekyll Themes
+During early conversations on Jurassic World, Spielberg told Trevorrow that he was interested in having several more films made.[62] In April 2014, Trevorrow announced that sequels to Jurassic World had been discussed: "We wanted to create something that would be a little bit less arbitrary and episodic, and something that could potentially arc into a series that would feel like a complete story."[63] Trevorrow, who said he would direct the film if asked,[63] later told Spielberg that he would only focus on directing one film in the series.[62] Trevorrow believed that different directors could bring different qualities to future films.[64] Bayona was once considered to direct Jurassic World, but he declined as he felt there was not enough time for production.[65] Filming took place from February to July 2017, in the United Kingdom and Hawaii.[61][66][67]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/50082049/Jurassic-World-Evolution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Former Jurassic World manager Claire Dearing and Velociraptor handler Owen Grady join a mission to rescue Isla Nublar's dinosaurs from a volcanic eruption by relocating them to a new island sanctuary. They discover that the mission is part of a scheme to sell the captured dinosaurs on the black market. The captured dinosaurs are brought to an estate in northern California, where several of the creatures are auctioned and subsequently shipped to their new owners. A new hybrid dinosaur, the Indoraptor, escapes and terrorizes people at the estate before being killed. The unsold dinosaurs are released from the estate and into the wilderness to save them from a gas leak. With the dinosaurs now dispersed, the world has entered a Neo-Jurassic Period where humans and dinosaurs must coexist. A subplot involving human cloning is introduced, and the development of exploiting the dinosaurs' abilities for militaristic applications and other uses is re-explored.
 
-### Support or Contact
+# The After Math 
+Now its your turn to take the Controls Become the Park Manager and run it in a way that you see fit incubate your dinosaurs unlock more dinosoaur fossiles to get unlcok many park on all the Isla Island even the Isalnd wehre it all began of Isla nublar and succeed where others have failed 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# lets get Started
+
+# Know the Dinoasurs.
+
+# Herbavores
+
+## struthiomimus
+Struthomimus has been confirmed to appear in Jurassic World: Evolution. It is the first dinosaur species that players get in their parks. The main skin is mainly brown with a white underbelly, arms, neck and head, and darker brown stripes all over the sides of the dinosaur and a faint blue on the top of the head just behind the eye. It is inaccurately depicted as a herbivore, when it, in real life, is an omnivore. This is possibly due to their limitations that resemble a herbivore.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/cOv6qyPvdng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Triceratops
+is a genus of ceratopsian dinosaur that originated from Late Cretaceous North America. As one of the first species of dinosaur cloned by InGen, Triceratops were fixtures in both Jurassic Park and Jurassic World, and can are made available to the Hammond Foundation's operations on Isla Matanceros. Of the two recognized Triceratops species, the InGen version most closely resembles the earlier, smaller species Triceratops horridus.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/3lP-owXJ57E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Pachycephalosaurus
+Originating in the Late Cretaceous period of North America, Pachycephalosaurus was one of several dinosaurs bred by InGen on Isla Sorna for eventual exhibition in Jurassic Park on the neighbouring island Isla Nublar, with an original population count of nine individuals.[1] After the abandonment of Isla Sorna in the wake of Hurricane Clarissa, an InGen team sent to the island in 1997 briefly captured a Pachycephalosaurus, intending to ship it to San Diego as an attraction in a new iteration of Jurassic Park.[2]
+
+After Masrani Global purchased InGen and began development of Jurassic World on Isla Nublar, Pachycephalosaurus was featured as an attraction in the park, where guests could watch the animals butt heads in the Pachy Arena.[3] It is unknown if these Pachycephalosaurs were originally transported from Isla Sorna, after the island's biosphere collapsed, or if they were cloned after the park opened in 2004. Regardless, after the park was abandoned in 2015, the Pachycephalosaurus became listed as an endangered species, threatened by the impending eruption of Nublar's active volcano. But after Mount Sibo's eruption, it is unknown if any survived.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/gljdEz9yuuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Stygimoloch
+Originally from the Late Cretaceous period of North America, Stygimoloch was cloned by InGen for Jurassic World on Isla Nublar, where it lived alongside its close relative Pachycephalosaurus. After the disastrous incident that took place in 2015, Stygimoloch and the park's other resident dinosaurs were released to the wild and were considered an endangered species at the time of the eruption of Mount Sibo.[1]
+
+At least four Stygimoloch was successfully transported by a team of mercenaries hired by Eli Mills to the Lockwood estate in northern California, where the surviving dinosaurs were intended to be auctioned off. However, Claire Dearing and Owen Grady released an individual named "Stiggy" from its cage, and it subsequently went on a rampage throughout the manor, disrupting the auction and causing numerous injuries before fleeing into the surrounding forest. The other Stygimoloch were eventually freed by Maisie Lockwood alongside all the other dinosaurs.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/qo84nLHYwMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Sinoceratops
+Recreated by InGen on Isla Nublar for Masrani Corporation's Jurassic World, Sinoceratops originated in China during the Late Cretaceous period. It likely lived with other herbivorous members of the park in the Gyrosphere Valley before the park was abandoned in 2015. Several members of the species remained active on the island in the aftermath of the park's abandonment, and many were encountered on the island during the 2018 mission to relocate the dinosaurs due to the impending eruption of Mount Sibo.[1]
+
+Many Sinoceratops were successfully transported from the now-destroyed Nublar to the Lockwood Estate in northern California, where they and the other dinosaurs were intended to be auctioned off to the highest bidder. However, Claire Dearing and Owen Grady managed to put an end to the auction, and the surviving dinosaurs, including several Sinoceratops were released into the wilds of northern California.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/-tMDyNvUeQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Apatosaurus
+Apatosaurus was originally planned to be exhibited as an attraction for the original Jurassic Park on Isla Nublar, with 57% of the genome completed by InGen by 1993.[1] However, after the disastrous San Diego Incident, InGen was acquired by Masrani Global, which began development of Jurassic World on Nublar. Apatosaurus was eventually cloned and exhibited on the island, where it lived alongside numerous other species of herbivore such as Triceratops and Stegosaurus.[2]
+
+In 2015, several Apatosaurus were brutally killed by the rampaging Indominus rex, though surviving members of the population were later encountered on Nublar four years later, during the volcanic eruption of Mount Sibo. At least four Apatosaurus were successfully transported to the mainland. These specimens were later released from their cages alongside numerous other species of dinosaurs, into the wilds of northern California
+<iframe width="790" height="444" src="https://www.youtube.com/embed/Kje1t9gYID4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Stegosaurus
+Originating in the Late Jurassic period of North America, Stegosaurus was first cloned by InGen in the early 1990s, and were planned to be exhibited in the original Jurassic Park on Isla Nublar. However, although InGen maintained a herd of eleven Stegosaurus on Isla Sorna, by the time of the Jurassic Park incident in 1993, they had yet to transport any to Nublar.[1]
+
+During a mission to Sorna in 1997, a breeding herd of Stegosaurus were encountered by Dr. Ian Malcolm's group, and several were briefly captured by InGen.[2] In 2001, herds of Stegosaurus were briefly glimpsed on Isla Sorna by the survivors of a plane crash on the island.[3]
+
+Stegosaurus were later exhibited on Isla Nublar for Masrani Global's Jurassic World theme park, where they lived alongside many other species of herbivores in the Gyrosphere Valley, Cretaceous Cruise, and the Gentle Giants Petting Zoo attractions.[4] Three years after the park was abandoned, numerous Stegosaurus were encountered on Isla Nublar, during a mission to rescue the dinosaurs from the volcanic eruption of Mount Sibo. Several Stegosaurus were successfully transported to the mainland, with at least one was sold off screen during the auction, while the others were released into the wild of northern California alongside all the other dinosaurs.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/7Dsxe1qJW_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Edmontosaurus
+Edmontosaurus were first cloned by InGen during the planning stages for Jurassic Park on Isla Nublar, with a small herd of four individuals bred on Isla Sorna, per a 1996 report.[1] These animals were not shipped to Nublar prior to the incident in 1993, and InGen subsequently lost track of the animal's population numbers on Sorna, though the carcass of an Edmontosaur was seen in a Tyrannosaurus nest prior to the San Diego Incident in 1997.[1][2]
+
+A herd of Edmontosaurs were later exhibited in Jurassic World on Isla Nublar, where they lived in Gallimimus Valley, though it is unknown if these individuals were shipped from Isla Sorna, or were bred by Masrani. After the park was abandoned in the aftermath of the Indominus' escape in 2015, however, it was reported that Edmontosaurus had slipped back into extinction.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/CXkJdpqvMAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Parasaurolophus
+Originating in Late Cretaceous North America, Parasaurolophus was among the first species cloned by InGen for Jurassic Park on Isla Nublar. By 1993, a herd of fifteen animals was present on Nublar, while thirteen were present on InGen's Site B facility on nearby Isla Sorna.[2] After the park was abandoned in 1993, continued attacks by Nublar's Tyrannosaurus had reduced the Parasaur population on the island to nine by 1994, with the remaining animals congregating close to other large herbivores for protection.[2]
+
+After the abandonment of Isla Sorna soon after the Jurassic Park Incident, the Parasaurolophus on the island, as with the other species of dinosaur, were left to fend for themselves. In 1997, during a mission to round up Sorna's dinosaurs, several Parasaurolophus were sighted on the island, living alongside Gallimimus, Pachycephalosaurus and Mamenchisaurus. Several of these Parasaurs were briefly captured by InGen.[3]
+
+Jurassic World Evolution Screenshot 2018.06.22 - 15.40.13.18
+A herd of Parasaurolophus.
+In 2001, several Parasaurolophus were briefly encountered by the survivors of a plane crash on the island, living in a mixed herd with Corythosaurus, which had been illegally bred on Sorna in 1999 as early research and development for the eventual creation of Jurassic World.[2][4]
+
+Upon the opening of Jurassic World in 2004, Parasaurolophus was one of the many species exhibited on Isla Nublar, living peacefully alongside other species of herbivore as they had on Isla Sorna. Juvenile Parasaurs could be approached by visitors in the Gentle Giants petting zoo, while adults were seen congregating in the Gyrosphere Valley.[2][5] Three years after the abandonment of the park, many Parasaurolophus were successfully transported to the mainland by mercenaries led by Ken Wheatley. These specimens were later released from their cages alongside numerous other species of dinosaurs, into the wilds of northern California
+<iframe width="790" height="444" src="https://www.youtube.com/embed/scOi9G93GUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Torosaurus
+Torosaurus has a large bulky body, a wide sweeping frill and three horns; one on its snout and two above its eyes. The base genome is mostly pale grey with some dark grey markings on its back and light red markings with white rings around the red on its frill.
+Behavior Edit
+Torosaurus is a social animal and requires others of its own kind around to be happiest. While meeker than Triceratops, it is capable of fighting back against large carnivores and can inflict potentially lethal harm with its sharp horns.
+
+Palaeontology Edit
+Torosaurus was first named in 1891 based on two complete skulls and has been found throughout the North American continent from Texas to Saskatchewan. It was one of the last dinosaurs in the Late Cretaceous before the Mesozoic mass extinction and lived alongside Ankylosaurus, Edmontosaurus, Ornithomimus, Thescelosaurus, Triceratops and Tyrannosaurus.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/y3SV2abmwRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Tsintaosaurus
+The base genome of Tsintaosaurus is light brown, with darker brown spots littering it's body, and light blue on its back. The most distinctive feature of Tsintaosaurus is its distinctive head crest which once earned it the nickname of the "unicorn dinosaur".[1]
+Behaviour Edit
+Tsintaosaurus is a herding animal that needs to be kept in groups of four or more to be comfortable. It is tolerant of other herbivores and is a good dinosaur to mix with other hadrosaurs.
+
+Paleontology Edit
+Tsintaosaurus was first discovered in the 1950s, in Shangdon province of eastern China. The first fossils found were parts of the skull and body from two specimens, as well as a multitude of isolated pieces of others, evidence that this species lived in herds. The most striking feature of the skull was a long piece of bone sticking upwards like a unicorn or narwhal horn. At first this was dismissed as a piece of bone that had been broken, but with further study, it was revealed Tsintaosaurus was related to the lambeosaurine branch of hadrosaurs, which included Corythosaurus and Parasaurolophus and were characterised by strange crests. From then until 2013, Tsintaosaurus was given a long horn like crest and occasionally a billowing flap of skin connected to it, acting as a display. However later finds of Tsintaosaurus skulls, and studies other similar hadrosaurs such as Olorotitan in Russia, it was discovered that the 'unicorn horn' was in fact part of a hatchet shaped crest that allows this species to amplify its vocalisation.
+
+Tsintaosaurus also shares similar features of other hadrosaurs such as a toothless beak and batteries of grinding teeth at the back of its jaws. Other dinosaurs that lived alongside Tsintaosaurus include the massive hadrosaur Shantungosaurus, Sinoceratops and other ceratopsians, titanosaurs and the carnivore Zhuchengtyrannus, a species closely related to Tyrannosaurus.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/w_Hw7M2k038" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Styracosaurus
+Styracosaurus was not planned to be a featured dinosaur in the original Jurassic Park on Isla Nublar, and no populations were reported by InGen on either Nublar or their Site B facility on Isla Sorna in 1996.[1]
+
+However, a promotional art piece by Claire Dearing's Dinosaur Protection Group listing both extinct and extant species of dinosaur on Isla Nublar, listed Styracosaurus as extinct, implying that the animal had previously been cloned for Jurassic World, only to fall back into extinction in the aftermath of the 2015 incident which resulted in the park's closure.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/xeYU0NkMNZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Gigantspinosaurus
+The Gigantspinosaurus is a medium-sized dinosaur with enormous spikes on its shoulders. It also has a paired row of small plates running down its back and four spikes on its tail. The base genome seems to be a coffee brown with a pale underbelly and darker brown stripes.
+<iframe width="693" height="520" src="https://www.youtube.com/embed/-3LpcnxXfCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Gallimimus
+Gallimimus was first bred by InGen for the original Jurassic Park on Isla Nublar. Based on an InGen report, the original herd of Gallimimus on Isla Nublar numbered twenty four individuals, though by 1994, their numbers dropped dramatically to nine due to constant Tyrannosaurus attacks.[1]
+
+On Isla Sorna, there was an original population count of twenty. However, it is unknown if and how this figure changed over time, due to the island being abandoned after Hurricane Clarissa hit the island. It is assumed that because of the frog DNA added to the Gallimimus genome, some animals changed sex and began breeding.[1]
+
+After Jurassic World was completed in 2004, Gallimimus was exhibited in the Gallimimus Valley attraction, where tourists could take a safari ride through the valley among the Gallimimus. Guests could also interact with juvenile Gallimimus in the Gentle Giants Petting Zoo.[2] Three years later, Gallimimus were encountered during the eruption of Mount Sibo, which threatened it and the other species of resurrected dinosaur with extinction. Several Gallimimus were successfully transported to the mainland. These specimens were later released from their cages alongside numerous other species of dinosaurs, into the wilds of northern California.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/B1_944p9epo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Diplodocus
+While InGen was not known to have cloned Diplodocus for either Jurassic Park or Jurassic World, two taxidermied juvenile specimens appeared in the Lockwood Manor, indicating that the genus was indeed recreated but was not shown for display.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/tChOnRf0Bo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Pentaceratops
+Pentaceratops has a huge frill crowned with bony growths and three large horns; one on its snout and two above its eyes.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/-AFCNAJJgsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Polacanthus
+Polacanthus is a robust herbivore with a row of spikes running down its sides and tail and with an extra layer of spikes on its shoulders. It also has a thickened layer of bone with osteoderms across its hips. The base genome is grey coloured.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/P1Wn31BmOrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Crichtonsaurus
+Crichtonsaurus is a small species of ankylosaurid dinosaur related to the larger Ankylosaurus. In Jurassic World Evolution, the base genome of the Crichtonsaurus has a brown-grey colouration.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/h5iY5sYsf6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Chungkingosaurus
+Chungkingosaurus looked fairly similar to Tuojiangosaurus, with diamond shaped plates on its' back but it also has 4 twin pairs of thagomizers, or tail spikes. The base genome of Chungkingosaurus is a light green coloring with dark green stripes on the back with white plates, beak, and spikes.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/KptcIYm4acw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Chasmosaurus
+In Jurassic World Evolution, the base genome of the Chasmosaurus is primarily reddish-brown in color, with a creamy underbelly and faded blue and red streaks on its large frill. As with other ceratopsians, it primarily moves in herds to afford it protection against carnivores.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/crTmdM1qi5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Camarasaurus
+In Jurassic World Evolution, Camarasaurus is reddish-brown with a paler underside. It is the smallest species of confirmed sauropod in the game, after Apatosaurus and Brachiosaurus, both of which it lived alongside during the Late Jurassic.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/GlmTSOwet-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Muttaburrasaurus
+Muttaburrasaurus is a medium herbivore and primarily walks on all four legs, but can rear on its hind legs for speed. The base genome is a greenish brown with white stripes along its tail and a bulbous nose.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/hEk55nd5evc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Mamenchisaurus
+Originating in China during the Late Jurassic period, Mamenchisaurus was first cloned on Isla Sorna, the factory floor of dinosaur cloning for Jurassic Park on Isla Nublar. A population of four animals was maintained on the island prior to its abandonment in the wake of Hurricane Clarissa in the mid-1990s.[1] Two Mamenchisaurs were briefly encountered in a large herd of herbivorous dinosaurs, by an InGen team sent to the island to round up the animals for a new iteration of Jurassic Park on the mainland.[2] It is unknown if any Mamenchisaurs were transported to Jurassic World on Nublar upon the collapse of Isla Sorna's ecosystem, though by 2018, the species was reported extinct by Claire Dearing's Dinosaur Protection Group.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/8kVdiI37hhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Maiasaura
+The base genome for Maiasaura is brown with white stripes running along its back, a white underbelly and a white head.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/-AodeXKnDDY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Carnivores
+
+## Allosaurus
+Originating in the Late Jurassic, Allosaurus was originally intended to be displayed as an attraction in Jurassic Park on Isla Nublar. However, they hadn't been cloned at the time of the 1993 incident, with a 1996 asset catalogue of the dinosaurs present on Nublar and InGen's Site B facility on Isla Sorna, reported that a mere twelve percent of the Allosaurus genome had been completed.[1]
+
+Subsequently, however, Allosaurus specimens were bred for Jurassic World on Isla Nublar, after it opened to the public in 2004. Given the presence of juvenile Allosaurus on the island in 2018, it is likely that a breeding population existed on Isla Nublar.[2] During the eruption of Mount Sibo in 2018, one juvenile Allosaurus was encountered during a stampede of dinosaurs. It tried to catch a Gallimimus. But it was unsuccessful due to the Gallimimus’ speed. It ran up to a Gyrosphere with Claire Dearing and Franklin Webb in it. It roared at Claire and Franklin and attempted to bite the Gyrosphere. However, it was hit and killed by a falling magma rock. Several Allosaurus were transported off the island to the mansion home of Benjamin Lockwood in California. At least one was successfully sold at the Lockwood Manor auction, while the others were released into the wild of northern California alongside numerous other species of dinosaurs by Maisie Lockwood.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/mwDUYvXwFt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Baryonyx
+Originating in the early Cretaceous period, InGen bred a total of five Baryonyx specimens at their Site B facility on Isla Sorna, intending them for display at Jurassic Park on the neighbouring Isla Nublar. While an enclosure was prepared for the Baryonyx, no specimens were present on Isla Nublar during the fateful 1993 incident which resulted in the park's abandonment.[1][2]
+
+During the subsequent abandonment of Isla Sorna during Hurricane Clarissa, InGen released the dinosaurs present on the island to the wild, presumably including the Baryonyx. However, none were encountered during the 1997 or the 2001 incidents on the island.[3][4]
+
+With the introduction of illegally cloned species such as Ceratosaurus and Spinosaurus in 1999, the biosphere of Isla Sorna began to collapse, and while it is not known if any Baryonyx were shipped to Jurassic World on Isla Nublar, by 2015, a population were exhibited in the Cretaceous Cruise on the island, alongside Suchomimus and a selection of herbivorous species.[5] After Jurassic World was destroyed by the rampaging Indominus rex, the dinosaurs on Nublar were abandoned, and three years later, several Baryonyx were encountered by a group sent to the island to rescue the dinosaurs from the impending eruption of Mount Sibo.[6]
+
+One Baryonyx appeared to have died during the volcanic eruption or managed to escape back outside the sewer tunnel before being carried by a helicopter after it attempted to devour Claire Dearing and Franklin Webb, while at least two others were successfully transported to the mainland. One individual was successfully sold at the auction, but the other was released into the wild of northern California along with all the other captured dinosaurs. 
+<iframe width="790" height="444" src="https://www.youtube.com/embed/e5e54i_PzBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Ceratosaurus
+Ceratosaurus was one of the animals illegally cloned by InGen on Isla Sorna in 1999, soon after the company had been acquired by Masrani Global. After InGen abandoned the cloning facility on Sorna, the Ceratosaurus was released into the wilds of the island, where it was briefly encountered by the survivors of a plane crash on the island in 2001.
+
+The existence of the Ceratosaurus, which was absent on InGen's list, was later reported to the authorities, as with the presence of Corythosaurus, Ankylosaurus and a Spinosaurus, though these reports were later covered up.[1] It is unknown if any Ceratosaurs were transported to Isla Nublar when Jurassic World opened in 2004, though by 2018, the species was reportedly extinct.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/xiPnWypUeU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Carnotaurus
+One of the most distinctive species of theropod dinosaurs, Carnotaurus was first cloned by InGen during the creation of Jurassic Park on Isla Nublar, with the company possessing a pair of two Carnotaurs on Isla Sorna in the 1990s.[1]
+
+While these animals weren't encountered during the incidents on Sorna in 1997 and 2001, the species itself was eventually exhibited in Jurassic World on Isla Nublar, which opened in 2004. It is unknown if these Carnotaurus were transported from Isla Sorna once the island's biosphere began to collapse, though at least one Jurassic World Carnotaurus was born in 2009.[1][2]
+
+Carnotaurus was one of many species used to create the fearsome genetically modified hybrid known as Indominus rex, which rampaged through Jurassic World in 2015. Three years later, a Carnotaurus was encountered by Claire Dearing's group, which had been sent to Isla Nublar to save the dinosaurs from the impending eruption of Mount Sibo. While one of the Carnotaurus was killed by Isla Nublar's T. rex, at least two individuals were successfully transported to the mainland.[3] The two Carnotaurus were subsequently released into the wilds of northern California along with all the other dinosaurs.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/5fYKchogJYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Suchomimus
+Originating in Early Cretaceous North Africa, Suchomimus was planned by InGen as an attraction in Jurassic Park on Isla Nublar, though it had yet to be cloned as of a 1996 asset catalogue of the dinosaurs present on Nublar and Isla Sorna, which stated that 75% of the Suchomimus genome had been mapped.[2] Due to its presence on InGen's list, the illegally cloned Spinosaurus encountered on Sorna by the survivors of a plane crash on the island in 2001 was erroneously speculated to be a Suchomimus by Billy Brennan.[3]
+
+Suchomimus was later cloned by InGen for Jurassic World on Isla Nublar, where it lived alongside Baryonyx and a selection of herbivorous dinosaurs in the Cretaceous Cruise area of the island. After the park was abandoned in 2015, surviving populations of Suchomimus were still extant on Nublar as of 2018. But after Mount Sibo's eruption, it is unknown if any survived.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/e22Ogy6akfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Giganotosaurus
+While InGen was not known to have cloned Giganotosaurus for either Jurassic Park or Jurassic World, by 2012, the company had possession of the carnivore's genetic material. This was later used, along with the DNA of numerous other species, to create the genetically modified superpredator known as the Indominus rex, which was responsible for the destruction of Jurassic World in 2015.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/0AJM2tHBLGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Metriacanthosaurus
+Metriacanthosaurus was one of the species which InGen had planned to feature at the original Jurassic Park on Isla Nublar, with 71% of the genome completed by 1993.[1] After InGen was acquired by Masrani Global in 1999, the genome was completed, and Metriacanthosaurus became an attraction in Cretaceous Cruise in Jurassic World, a new dinosaur theme park which opened on Isla Nublar in 2005.[2]
+
+Although Nublar's population of Metriacanthosaurus became wild after the 2015 Jurassic World Incident, over the course of the next three years, the species became extinct once more.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/cKDeaazray8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Majungasaurus
+Although InGen wasn't known to have cloned any specimens of Majungasaurus for exhibition in Jurassic World on Isla Nublar, by 2012, the company had possession of the carnivore's genetic material, which was used in part to create the genetically modified superpredator known as Indominus rex.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/ZnyAVGDnqVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Dilophosaurus
+Originating in the Jurassic period, a total of seventeen Dilophosaurs were bred by InGen, with five present on Isla Nublar and twelve on Isla Sorna.[2] During the Jurassic Park incident in 1993, a Dilophosaurus attacked park employee Dennis Nedry after his car crashed close to the creature's paddock, using its venom to subdue and kill him.[1] A year after the incident, it was reported during a cleanup operation on Nublar that the population of Dilophosaurs had remained constant.[2]
+
+Dilophosaurus was one of a large number of dinosaurs exhibited in Jurassic Park's successor, Jurassic World, which opened on Isla Nublar in 2004. Like the other animals in the park, Jurassic World's Dilophosaurus underwent frequent medical care, with a noted problem being a fungal infection which appeared on the animal's decorative frill Three years after the abandonment of Jurassic world. Dilophosaurus became endangered in 2018 but it did not appear in the film, but a hooting call can be heard from the bushes at the start of the film. But after Mount Sibo's eruption, it is unknown if any survived.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/EQkJQDEyOmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Deinonychus
+Deinonychus was not planned to be a featured dinosaur in the original Jurassic Park on Isla Nublar, and no Deinonychus populations were reported by InGen on either Nublar or their Site B facility on Isla Sorna in 1996.[1]
+
+However, a promotional art piece by Claire Dearing's Dinosaur Protection Group listing both extinct and extant species of dinosaur on Isla Nublar, listed Deinonychus as apparently extinct, implying that the animal had previously been cloned for Jurassic World.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/vCbd2iyP44I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Velociraptor
+Velociraptor was the first species of dinosaur successfully cloned by InGen in 1986, for eventual display as an attraction in Jurassic Park on Isla Nublar.[2] In total, twenty one Velociraptors were cloned on Isla Sorna, with eight transported to Nublar. However, by the time of the Jurassic Park incident in 1993, the dominant raptor had killed all but two others.[3]
+
+Having systematically probed their fences for weakness prior to the incident, the Velociraptors escaped into the park, resulting in the death of two park administrators, before being killed by the park's Tyrannosaurus.[4] According to a 1996 InGen report, at least one of these Velociraptors successfully changed sex began breeding, though by 1994, no Velociraptors were reported on Isla Nublar.[3]
+
+Similarly, the surviving Velociraptors on Isla Sorna, which had been abandoned in the wake of Hurricane Clarissa, had also begun breeding, establishing nesting grounds in the island's interior.[5] In 1997, a pack of these Velociraptors were encountered, and were responsible for killing several members of an InGen team sent to capture dinosaurs and bring them to the mainland.[5] In 2001, a pack of visually dissimilar Velociraptors were encountered by the survivors of a plane crash on Sorna, displaying extraordinary levels of problem-solving intelligence.[6]
+
+Raptor1
+A Velociraptor attacking a visitor.
+In 2012, InGen began the Integrated Behavioral Raptor Intelligence Study, or IBRIS Project, to measure the intelligence of Velociraptors, ostensibly for an eventual trained Velociraptor exhibit in Jurassic World, while in reality, for potential military applications. Spearheaded by Owen Grady, by 2015, the IBRIS Project actively studied a pack of four Velociraptors—Charlie, Delta, Echo and the pack leader, Blue.[7][8]
+
+During the rampage of the Indominus rex, which was created primarily by combining the genome of a Velociraptor with that of a T. rex, the raptors were released on the island, and while they briefly acknowledged the Indominus as their alpha, they obeyed Grady's order to turn on the hybrid. Two of the raptors were killed in the ensuing battle, which ended with the Indominus' defeat due to the combined efforts of Blue, the T. rex and the park's Mosasaurus.[8] After the incident, Blue became the last surviving Velociraptor.
+
+Blue is still alive after living 3 years by herself on Isla Nublar. Owen was watching a training video of Blue and her pack after Claire Dearing tried convincing him to go back to Isla Nublar to save Blue and the other dinosaurs. Owen decides to go back to Isla Nublar because of his very close relationship with Blue. During the rescue mission, Owen Grady manages to track the location of Blue from her tracking device. Blue was startled when Eli Mills’s men arrived. She started to attack one of the men. However, they shoot Blue. The men betrayed Owen and left him sedated in the wild while they cart Blue back to the Arcadia. Inside the ship, Blue was confirmed to be wounded by Zia Rodriguez. She was desperately trying to slow down the bleeding of Blue wound. Blue was later cured with a blood transfusion, using the Isla Nublar Tyrannosaurus’s blood with the help of Claire and Owen. Zia was able to remove to bullet off of Blue. Meanwhile, Maisie Lockwood was watching the training video Owen was watching earlier of Blue and her pack in Henry Wu’s lab.
+
+Blue was taken to Doctor Henry Wu’s lab when they arrived at mainland. She was locked in a cage, as she is not auctioned off like the rest of the dinosaurs. After the Indoraptor’s escape, Henry Wu has Franklin Webb, who is disguised as a geneticist, to get equipment for him to take Blue’s blood samples, who is angrily pacing around her cage, which would help him create a new line of Indoraptors who inherit her traits, and recognize her as a leader, while Zia was handcuffed.
+
+After Franklin use the tranquilizer dart to stab on Wu’s neck, which was supposed to be use for Blue. Franklin unhand-cuffed Zia. Zia was about to escape the lab, but two guard men prevent them from escaping. She had no other choice, but ends up freeing Blue, who then attack the guards, providing enough time for the two DPG members to escape. When a tank of flammable gas is struck by a stray bullet, Blue bolts out of the lab, just as it explodes behind her, causing a tank cyanide to leak gas into the entire downstairs.
+
+Blue ends up reaching the upper levels of the manor, confronts the Indoraptor, just as he prepares to attack Owen in Maisie Lockwood's bedroom. She and the hybrid are locked into a brutal battle, with Blue being thrown around by the stronger dinosaur, as her teeth and claws barely phase the bloodthirsty dinosaur from surrendering.
+
+The Indoraptor ends up being shoved out a window by the raptor, and continues to pursue Owen and Maisie until he corners them atop a skylight. After barely surviving a fall through the broken glass of the sklylight, the Indoraptor is ambushed from behind by Blue, who had survived her own fall out the window, except in a different direction. When she pounces on him, both dinosaurs fall through the skylight, with the Indoraptor being impaled by the sharp horns of the Agujaceratops skull in the center of Benjamin Lockwood's fossil room, and Blue surviving the fall. She stands atop the hybrid's body, giving a loud cry of victory, before jumping off and running outside the manor.
+
+After Maisie releases the dinosaurs from the hydrogen cyanide leak within the manor's basement, Blue approaches Owen, visibly injured from the fight between her and the Indoraptor. He strokes her muzzle, and tells her he can take her to a sanctuary where no one would find her, and where she would be protected. Blue, however, makes gentle clicking noises before running towards freedom, pausing only once to look back at her trainer, preferring to be free like the other dinosaurs, opposed to being locked in a cage again. She looked at Owen, Claire, Maisie, Franklin, and Zia one last time. Before running in the Northern Californian woods.
+
+Blue is later seen again. Blue is seen looking-over a suburban California neighborhood, while calling out four times into the early morning, signifying that dinosaurs and humans must now co-exist with each other.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/wAodUWuAk1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Tyrannosaurus
+One of the last species of non-avian dinosaur to evolve before the end of the Cretaceous period, Tyrannosaurus was first cloned by InGen on Isla Sorna in the early 1990s, with a single adult T. rex present on Isla Nublar, and six on Sorna.[2] Intended as the main attraction at Jurassic Park, the large female Tyrannosaurus was placed in an enclosure in the east of the island, where it was eventually intended to be joined by a juvenile.[3] In 1993, however, during the fateful inspection of the Park, the Tyrannosaurus escaped from its exhibit due to a power outage and was given free reign across the island.Upon killing two of the Park's escaped Velociraptors, the T. rex was left unrivaled among the carnivores present on Isla Nublar, and established a territory which covered much of the island. In 1994, a team sent to Isla Nublar, reported that the T. rex was responsible for numerous attacks against the island's herds of Gallimimus and Parasaurolophus, and had attempted to hunt the massive Brachiosaurus.[2]
+
+In 1997, a breeding pair of Tyrannosaurs and their infant was encountered on Isla Sorna, by an InGen team sent to pillage the island and establish a new dinosaur park on the mainland. Despite being responsible for numerous deaths, the male Tyrannosaurus and its infant were captured and shipped to San Diego as the main attraction of Jurassic Park: San Diego. In what became known as the San Diego Incident, the buck escaped onto the streets of the city, causing numerous fatalities before being lured back to the San Diego Docks, where it was eventually transported back to Isla Sorna.[4]
+
+Soon after the incident, InGen was purchased by Masrani Global, which began construction of Jurassic World on Isla Nublar. In violation of the Gene Guard Act, which forbade the cloning of new prehistoric animals, as well as access to Isla Sorna, one hundred days after InGen was purchased, scientists on Sorna bred several new species of dinosaur, including a fearsome Spinosaurus.In 2001, the survivors of a plane crash on Sorna witnessed the fiercely territorial Spinosaur kill a T. rex, which had entered its territory.[5] The introduction of the Spinosaurus, and numerous other species of dinosaur, severely damaged the ecosystem of Isla Sorna, prompting Masrani to transport the surviving animals to Isla Nublar in 2004. It is unknown if any of Sorna's Tyrannosaurs were rescued, though by 2015, Jurassic World exhibited only the animal bred for the original park.[2]
+
+In 2002, this T. rex was captured by InGen Security, and eventually housed in an exhibit upon the grand opening of the park in 2004. As with the original park, Jurassic World marketed the Tyrannosaurus as its main attraction, depicting its likeness on official merchandise. The specimen was known by park workers as "Rexy".[6] However, by 2015, with attendance slipping, Dr. Henry Wu used the base genome of a Tyrannosaurus, hybridised with Velociraptor and numerous other species of prehistoric and modern animals, to create the Indominus rex.[7]
+
+When the Indominus escaped from its enclosure, park operations officer Claire Dearing released the T. rex from her enclosure, resulting in a vicious fight between the two predators. Although the T. rex was overpowered by the hybrid, it managed to defeat the Indominus due to the efforts of a Velociraptor and a Mosasaurus. After the incident, which resulted in the abandonment of Jurassic World, the T. rex became wild on Isla Nublar once more.[2][7] Several months later, a team of mercenaries sent to the island to recover a bone of the Indominus, narrowly escaped an encounter with the T. rex.Three years later, during the volcanic eruption of Mount Sibo, the T. rex was involved in a stampede of dinosaurs fleeing the destruction, where she killed a Carnotaurus. The T. rex was subsequently captured by mercenaries sent by Eli Mills, who brought her and the surviving dinosaurs to Lockwood manor in northern California, where they were intended to be auctioned off to the highest bidder.
+
+However, after the auction was disrupted, the T. rex and the other dinosaurs were later released from their cages into the wilds of Northern California. The T. rex promptly killed Mills before crushing the Indominus bone with her foot and moving off into the forest. After a period of time, she made her way to a nearby zoo and entered the enclosure of a lion, roaring aggressively toward the big cat.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/r5L7Iokg5RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Indominus rex
+The brainchild of Dr. Henry Wu, Indominus rex was originally created by InGen to revitalize public interest in Jurassic World on Isla Nublar, which, after operating successfully for over ten years, had begun to experience a decrease in visitor rates. By combining the genome of Carnotaurus, Deinosuchus, Giganotosaurus, Majungasaurus, Rugops, Therizinosaurus, Tyrannosaurus, Velociraptor, as well as modern animals such as cuttlefish and tree frog, Indominus was born. 
+
+However, with the extreme intelligence of a Velociraptor, Indominus escaped from its exhibit and caused mayhem across Isla Nublar, though was ultimately stopped due to the combined efforts of the park's T. rex, a Velociraptor named Blue, and the park’s resident Mosasaurus.[1]
+
+Dragged beneath the waters to its death, the skeleton of Indominus was later discovered by a team of mercenaries sent to the island, who recovered a piece of bone from the dead hybrid. Despite sustaining casualties by the Mosasaurus, the mercenaries retrived the material and brought to Dr. Wu, who used it during the creation of Indoraptor, which combined Indominus genome with that of a Velociraptor. After the death of Indoraptor, the Indominus bone was crushed by the T. rex, preventing its use in the creation of more hybrids.
+<iframe width="790" height="444" src="https://www.youtube.com/embed/74LntABT9Ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Indoraptor
+After the creation of Indominus rex under a secret agenda, Dr. Henry Wu was taken to a secure location to develop a new species of hybrid dinosaur for military use, after the former escaped and wreaked havoc on Isla Nublar in 2015.[1] After retrieving a bone from Indominus on the now-deserted Nublar, a team of mercenaries hired by Eli Mills, brought the sample to Wu, who used it to perfect the design. By combining the genomes of Indominus rex and Velociraptor, Wu tried to create the perfect specimen to use in combat. However, unlike Velociraptors, Indoraptor was a prototype that lacked the social skills to obey and follow command, which made it all the more lethal.[2]
+
+Shortly after the eruption of Mount Sibo on Isla Nublar, Indoraptor specimen was almost sold in an auction for the surviving dinosaurs, though later escaped, pursuing Claire Dearing, Maisie Lockwood and Owen Grady across the Lockwood Manor. The hybrid fought against the Velociraptor Blue, and after a protracted chase, he fell on to an Agujaceratops skull and was impaled and killed.
+ <iframe width="790" height="444" src="https://www.youtube.com/embed/Itb3bwH2o5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# The Islands
+<img src="http://cdn2.spiegel.de/images/image-1299601-galleryV9-oobj-1299601.jpg" alt="Trulli" width="500" height="333">
+
+## 
+<img src="https://vignette.wikia.nocookie.net/jurassicworld-evolution/images/d/d4/IMatenceros.png/revision/latest/scale-to-width-down/310?cb=20180521140847" alt="Trulli" width="500" height="333">
+## 
+<img src="https://vignette.wikia.nocookie.net/jurassicworld-evolution/images/c/ca/MUerta.png/revision/latest/scale-to-width-down/310?cb=20180521140950" alt="Trulli" width="500" height="333">
+## 
+<img src="https://i.pinimg.com/originals/05/39/56/0539560b859e73ab43beed1e544b1582.png" alt="Trulli" width="500" height="333">
+## 
+<img src="https://vignette.wikia.nocookie.net/jurassicworld-evolution/images/6/68/Sorna-0.png/revision/latest/scale-to-width-down/310?cb=20180521141045" alt="Trulli" width="500" height="333">
+## 
+<img src="https://vignette.wikia.nocookie.net/jurassicworld-evolution/images/0/0e/NUblar.png/revision/latest/scale-to-width-down/310?cb=20180521142122" alt="Trulli" width="500" height="333">
+
+# Thank you for your Visit 
+<img src="http://sohanews.sohacdn.com/thumb_w/660/2018/6/12/photo1528772353076-15287723530761073287493.jpg" alt="Trulli" width="800" height="400">
